@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+
+# The code is adapted from https://sebastianraschka.com/Articles/2014_python_lda.html
 import pandas as pd
 from pandas import ExcelWriter
 from pandas import ExcelFile
