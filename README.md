@@ -4,4 +4,10 @@
 
 **Goals of the Github**:
 
-This github repository contains the code used to perform Linear Discriminant Analysis in the article
+This github repository contains the code used to perform Linear Discriminant Analysis (LDA) in the article
+
+**Code Description:**
+
+**lda_code.py**: contains the code for performing LDA shown in Figure 2  
+
+
